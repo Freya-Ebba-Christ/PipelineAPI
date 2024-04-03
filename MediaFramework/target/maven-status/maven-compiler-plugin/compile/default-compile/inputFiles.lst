@@ -1,0 +1,13 @@
+/home/blinky/NetBeansProjects/MediaFramework/src/main/java/mediaframework/mediaframework/DataSinkComponent.java
+/home/blinky/NetBeansProjects/MediaFramework/src/main/java/mediaframework/mediaframework/ClockAndSequenceGenerator.java
+/home/blinky/NetBeansProjects/MediaFramework/src/main/java/mediaframework/mediaframework/DataProcessorComponent.java
+/home/blinky/NetBeansProjects/MediaFramework/src/main/java/mediaframework/mediaframework/CustomDataFrame.java
+/home/blinky/NetBeansProjects/MediaFramework/src/main/java/mediaframework/mediaframework/DataSourceComponent.java
+/home/blinky/NetBeansProjects/MediaFramework/src/main/java/mediaframework/mediaframework/PipelineDemo.java
+/home/blinky/NetBeansProjects/MediaFramework/src/main/java/mediaframework/mediaframework/TeeComponent.java
+/home/blinky/NetBeansProjects/MediaFramework/src/main/java/mediaframework/mediaframework/MessageQueue.java
+/home/blinky/NetBeansProjects/MediaFramework/src/main/java/mediaframework/mediaframework/MuxComponent.java
+/home/blinky/NetBeansProjects/MediaFramework/src/main/java/mediaframework/mediaframework/PipelineComponent.java
+/home/blinky/NetBeansProjects/MediaFramework/src/main/java/mediaframework/mediaframework/DefaultDataProcessor.java
+/home/blinky/NetBeansProjects/MediaFramework/src/main/java/mediaframework/mediaframework/PresentationComponent.java
+/home/blinky/NetBeansProjects/MediaFramework/src/main/java/mediaframework/mediaframework/DataProcessor.java
