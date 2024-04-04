@@ -1,1 +1,1 @@
-Smal Kava Media Pipleine API
+Small Java Media Pipeline API
